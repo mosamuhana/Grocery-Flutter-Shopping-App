@@ -1,0 +1,39 @@
+name: grocery
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  page_transition: ^1.1.6
+  smooth_star_rating: ^1.1.1
+  shared_preferences: ^0.5.10
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+   - assets/images/
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-Medium.ttf
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
+    - family: Pacifico
+      fonts:
+        - asset: assets/fonts/Pacifico.ttf
+    - family: CustomIcons
+      fonts:
+        - asset: assets/fonts/custom_icons.ttf
