@@ -8,28 +8,28 @@ A Flutter UI template of a Grocery Shopping App.
 
 Don't forget to star⭐ the repo if you like what you see😉.
 # 🎥 Demo
-<img src="./screenshots/startup.png" width="300">
+<img src="./screenshots/startup.png" width="250">
 
 # 📸 Screenshots
 The screenshots below are taken on a android emulator.
 
 | 1 | 2|
 |------|-------|
-|<img src="./screenshots/startup.png" width="300">|<img src="screenshots/signin.png" width="300">|
+|<img src="./screenshots/startup.png" width="250">|<img src="screenshots/signin.png" width="250">|
 
 | 3 | 4|
 |------|-------|
-|<img src="screenshots/signup.png" width="300">|<img src="screenshots/forgot_password.png" width="300">|
+|<img src="screenshots/signup.png" width="250">|<img src="screenshots/forgot_password.png" width="250">|
 
 
 | 5 | 6|
 |------|-------|
-|<img src="screenshots/store.png" width="300">|<img src="screenshots/product.png" width="300">|
+|<img src="screenshots/store.png" width="250">|<img src="screenshots/product.png" width="250">|
 
 
 | 7 |
 |------|
-|<img src="screenshots/settings.png" width="300">
+|<img src="screenshots/settings.png" width="250">
 
 
 
