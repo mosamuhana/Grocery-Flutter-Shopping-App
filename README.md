@@ -21,16 +21,13 @@ The screenshots below are taken on a android emulator.
 |------|-------|
 |<img src="screenshots/signup.png" width="250">|<img src="screenshots/forgot_password.png" width="250">|
 
-
 | 5 | 6|
 |------|-------|
 |<img src="screenshots/store.png" width="250">|<img src="screenshots/product.png" width="250">|
 
-
-| 7 |
-|------|
-|<img src="screenshots/settings.png" width="250">
-
+| 7 | 8|
+|------|-------|
+|<img src="screenshots/settings.png" width="250">|<img src="screenshots/cart.png" width="250">|
 
 
 # ✨ Requirements
